@@ -1,15 +1,43 @@
-# 💫 About Me:
-👨‍💻 Student of IT Management at TEC, Costa Rica  <br><br>🌍 Interested in tech for transparency, collaboration, and sustainable change  
+<img src="assets/banner.png" alt="Emilio Alfaro — Product designer · Costa Rica" width="100%">
 
+I design products for payments and fintech, and I show how. Studying IT Management at [TEC](https://www.tec.ac.cr/), Costa Rica.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mlo.aa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilio-alfaro-794a14308) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eml0aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilioaalfaro@gmail.com) 
+Interested in tech for transparency, collaboration and sustainable change.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mlo-aa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mlo-aa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mlo-aa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected work
+
+| Project | What it is | My role |
+| :-- | :-- | :-- |
+| **[Senda](https://withsenda.site/)** | Sending money home as easily as sending a message, from a WhatsApp chat. | Co-Founder & CPO. Landing: [Senda.App](https://github.com/SendaLabs/Senda.App) |
+| **[TrustBid](https://trustbid.org/)** | Every fund leaves a trace: spending records NGOs can share with donors. | Product Designer / PM. [Code](https://github.com/TrustBid/platform) |
+| **[ZEEK Hub](https://zeek-hub.vercel.app/)** | The app volunteers of the [ZEEK](https://zeek.es/) builder community use to see their tasks, calendar and events. | UI design and product direction. [Code](https://github.com/ZEEKCR/zeek-hub) |
+| **[OFFERHUB](https://offer-hub.tech/)** | Open-source payments and escrow infrastructure for marketplaces. | Growth lead: brand and community. [Code](https://github.com/OFFER-HUB/OFFER-HUB) |
+
+Each project is explained, with screens, at **[framedby.me](https://framedby.me)**.
+
+<br>
+
+## Tools
+
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-0a0a0a?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-0a0a0a?style=for-the-badge&logo=blender&logoColor=white)
+
+<br>
+
+## Find me
+
+[![Portfolio](https://img.shields.io/badge/framedby.me-dfff3a?style=for-the-badge&logoColor=0a0a0a&labelColor=dfff3a&color=dfff3a)](https://framedby.me)
+[![Instagram](https://img.shields.io/badge/Instagram-2b4bff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/framedbymlo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b4bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-alfaro/)
+[![X](https://img.shields.io/badge/X-2b4bff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eml0aa)
+[![Email](https://img.shields.io/badge/hi%40framedby.me-2b4bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@framedby.me)
