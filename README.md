@@ -27,16 +27,18 @@ Each project is explained, with screens, at **[framedby.me](https://framedby.me)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-0a0a0a?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0a0a0a?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-0a0a0a?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-0a0a0a?style=for-the-badge&logo=blender&logoColor=white)
+
+From university: C, Java, Python, MySQL and SQLite.
 
 <br>
 
 ## Find me
 
-[![Portfolio](https://img.shields.io/badge/framedby.me-dfff3a?style=for-the-badge&logoColor=0a0a0a&labelColor=dfff3a&color=dfff3a)](https://framedby.me)
+[![Portfolio](https://img.shields.io/badge/framedby.me-0a0a0a?style=for-the-badge)](https://framedby.me)
 [![Instagram](https://img.shields.io/badge/Instagram-2b4bff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/framedbymlo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b4bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-alfaro/)
 [![X](https://img.shields.io/badge/X-2b4bff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eml0aa)
