@@ -32,7 +32,7 @@ Each project is explained, with screens, at **[framedby.me](https://framedby.me)
 ![Lightroom](https://img.shields.io/badge/Lightroom-0a0a0a?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-0a0a0a?style=for-the-badge&logo=blender&logoColor=white)
 
-From university: C, Java, Python, MySQL and SQLite.
+Also: C, Java, Python, MySQL and SQLite.
 
 <br>
 
